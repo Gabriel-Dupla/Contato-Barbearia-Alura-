@@ -45,6 +45,6 @@ Por meio dos conhecimentos adquiridos foi possível desenvolver uma página web 
   
 ## Como Usar:
 
-Realizando o download do projeto clicando na opção Code e em seguida selecionando Download Zip ou pelo link [Barbearia-Alura-Contato](https://gabriel-dupla.github.io/Contato-Barbearia-Alura-/).
+Realizando o download do projeto clicando na opção Code e em seguida selecionando Download Zip ou pelo link [Barbearia-Alura-Contato](https://gabriel-dupla.github.io/HTML-e-CSS-III/).
 
 
